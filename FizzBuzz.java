@@ -1,7 +1,7 @@
 /**
  * CLASSIC FIZZBUZZ GAME.
- * Print Fizz for the multiples of 3(here any number).
- * Print Buzz for the multiples of 5(here any number).
+ * Print Fizz for the multiples of 3.
+ * Print Buzz for the multiples of 5.
  * The limit goes till 100.
  * 
  * In this GAME, the limit can be anything as well as 
@@ -40,7 +40,5 @@ public class FizzBuzz {
                 System.out.println(i);
             }
         }
-
     }
-
 }
